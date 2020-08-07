@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Global functions">
+      <UniqueIdentifier>{85e24018-4531-4674-bc6a-acf537f303bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\include">
+      <UniqueIdentifier>{c0ac9163-6e6f-4d0b-9223-edda1fc5fb3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Noise">
+      <UniqueIdentifier>{b8b1e872-2f14-425e-b0eb-525b632c89c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math">
+      <UniqueIdentifier>{0b7403f0-ce6b-4b19-a09e-7c0d13d425a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math\matrix">
+      <UniqueIdentifier>{246b5063-9aa4-4be0-8c5b-fba47bf78e4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math\vector">
+      <UniqueIdentifier>{6fd1dfa7-0201-44ae-8525-712f82884c7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math\frustum">
+      <UniqueIdentifier>{6010f596-f9bd-4ecc-9c37-ad5d40300b6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphics">
+      <UniqueIdentifier>{92045cf0-cbc2-4d54-8085-d2167d55d97e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math\triangle">
+      <UniqueIdentifier>{aee11ee2-fe89-436a-8930-cee20b4f2d40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\interaction">
+      <UniqueIdentifier>{57e67ea2-4baf-428e-9405-9f609e256cb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math\physics">
+      <UniqueIdentifier>{b084efc0-59ac-42be-85ab-4af18627300e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math\rectangle">
+      <UniqueIdentifier>{36cb5784-cbda-45ff-b8f1-704c17b2aabb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math\time">
+      <UniqueIdentifier>{fc8d51ff-4a19-4687-bfcf-06f60bd62335}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sound">
+      <UniqueIdentifier>{bbf23397-8c4c-4195-920b-455483c244bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math\point">
+      <UniqueIdentifier>{9baad0d9-7de0-490e-b895-35f0e296d17e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphics\bufferobject">
+      <UniqueIdentifier>{be1eb3f0-ed02-40a9-ad16-fc5ff44052a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\compiler">
+      <UniqueIdentifier>{c86bf1a8-6c66-4b15-ab52-9dd8787c3ff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hsf">
+      <UniqueIdentifier>{4016f2ec-6f5e-4eda-9b91-66871c50c7e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphics\font">
+      <UniqueIdentifier>{0efe0ad2-e5b3-4692-b28d-930330169717}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphics\brush">
+      <UniqueIdentifier>{3120f31b-860a-468f-9c07-928385bdf2a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphics\texture">
+      <UniqueIdentifier>{a43ee06c-4267-445a-9173-2cd33e0c1645}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphics\texture\Image">
+      <UniqueIdentifier>{0e240c30-d213-4624-aa44-fd1e3c6ad43c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphics\texture\square">
+      <UniqueIdentifier>{a8b94a0d-1e24-4166-a6ec-03ce61ca1b14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\bodypart">
+      <UniqueIdentifier>{8ad3e197-5647-4e8e-ad33-7e32650aa3e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\compiler\area">
+      <UniqueIdentifier>{67cf2c3e-520d-4841-807f-5a8b11218e9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\compiler\area\standardarea">
+      <UniqueIdentifier>{db18071e-dd6b-4216-a236-dc9872533d71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\compiler\errors">
+      <UniqueIdentifier>{147d17d8-ce3f-4dee-a570-a4488f9a0951}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\mesh">
+      <UniqueIdentifier>{218895f6-9788-4c53-bcb5-5ba81611d853}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\mesh\marching cubes">
+      <UniqueIdentifier>{3624f5e5-8377-4f43-a62c-0a42dcd771c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\keyframe">
+      <UniqueIdentifier>{7d2dfc7a-9cba-4a31-9ce1-e1fbd9b8bcf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\list">
+      <UniqueIdentifier>{d62c7356-9d6b-4986-8701-cafd4406b13f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\list\multidimensional">
+      <UniqueIdentifier>{7e3d65db-9ce0-4d5b-883d-06b7d92c276a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\math\AI">
+      <UniqueIdentifier>{b02d0de9-8635-4e1b-8c54-11ece09f3489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\control">
+      <UniqueIdentifier>{62e1c77b-58bb-4782-821f-d42045720a47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\control\picturebox">
+      <UniqueIdentifier>{6b9da757-1ac2-49b2-89ba-72cd1fde1acf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\control\textbox">
+      <UniqueIdentifier>{64b703e7-475d-4c93-abeb-bf8833423d5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\control\filedialog">
+      <UniqueIdentifier>{addb61a1-c4d4-4cc1-a76a-8cac421bd184}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\control\form">
+      <UniqueIdentifier>{bf6995e2-3ebe-498a-8c5f-1cce171b5880}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\control\button">
+      <UniqueIdentifier>{338cb92e-694a-4a6c-a5f5-935634d89ac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\list\tilelist">
+      <UniqueIdentifier>{f9e072c4-158e-44a4-8bba-2ad09d50f368}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\control\checkbox">
+      <UniqueIdentifier>{b6bee43f-83b7-48e6-8f9d-df78694f18e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\control\slider">
+      <UniqueIdentifier>{d21768a1-42af-456a-a864-ed979a01fc33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\interface">
+      <UniqueIdentifier>{2ceaa99f-0f21-4c1c-bb91-7b4168e3c39b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\main">
+      <UniqueIdentifier>{5370a897-8b96-4ccb-85bf-d5af2fb21da4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\control\label">
+      <UniqueIdentifier>{8d40bfb3-7991-466e-a218-d466a41fc922}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphics\raycasting">
+      <UniqueIdentifier>{4e34ec3f-f3aa-4bae-ab73-b1ce9bdc3774}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graphics\raycasting\intersectable">
+      <UniqueIdentifier>{1476e060-5c55-4ff6-b863-25b1ff3489b1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalFunctions.h">
+      <Filter>Source Files\Global functions</Filter>
+    </ClInclude>
+    <ClInclude Include="include.h">
+      <Filter>Source Files\include</Filter>
+    </ClInclude>
+    <ClInclude Include="LayerNoiseSimplex.h">
+      <Filter>Source Files\Noise</Filter>
+    </ClInclude>
+    <ClInclude Include="SimplexNoise.h">
+      <Filter>Source Files\Noise</Filter>
+    </ClInclude>
+    <ClInclude Include="mat3x3.h">
+      <Filter>Source Files\math\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="vec3.h">
+      <Filter>Source Files\math\vector</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Source Files\graphics\texture</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>Source Files\graphics\font</Filter>
+    </ClInclude>
+    <ClInclude Include="mat4x4.h">
+      <Filter>Source Files\math\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="PictureBox.h">
+      <Filter>Source Files\control\picturebox</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBox.h">
+      <Filter>Source Files\control\textbox</Filter>
+    </ClInclude>
+    <ClInclude Include="mathfunctions.h">
+      <Filter>Source Files\math</Filter>
+    </ClInclude>
+    <ClInclude Include="frustum.h">
+      <Filter>Source Files\math\frustum</Filter>
+    </ClInclude>
+    <ClInclude Include="graphics.h">
+      <Filter>Source Files\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="triangle.h">
+      <Filter>Source Files\math\triangle</Filter>
+    </ClInclude>
+    <ClInclude Include="mat2x2.h">
+      <Filter>Source Files\math\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="interaction.h">
+      <Filter>Source Files\interaction</Filter>
+    </ClInclude>
+    <ClInclude Include="collisions.h">
+      <Filter>Source Files\math\physics</Filter>
+    </ClInclude>
+    <ClInclude Include="rectangle2.h">
+      <Filter>Source Files\math\rectangle</Filter>
+    </ClInclude>
+    <ClInclude Include="rectangle3.h">
+      <Filter>Source Files\math\rectangle</Filter>
+    </ClInclude>
+    <ClInclude Include="timemath.h">
+      <Filter>Source Files\math\time</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixgroup.h">
+      <Filter>Source Files\math\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>Source Files\graphics\texture\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="squaretex.h">
+      <Filter>Source Files\graphics\texture\square</Filter>
+    </ClInclude>
+    <ClInclude Include="textures.h">
+      <Filter>Source Files\graphics\texture</Filter>
+    </ClInclude>
+    <ClInclude Include="sound.h">
+      <Filter>Source Files\sound</Filter>
+    </ClInclude>
+    <ClInclude Include="filedialog.h">
+      <Filter>Source Files\control\filedialog</Filter>
+    </ClInclude>
+    <ClInclude Include="vec2.h">
+      <Filter>Source Files\math\vector</Filter>
+    </ClInclude>
+    <ClInclude Include="point3.h">
+      <Filter>Source Files\math\point</Filter>
+    </ClInclude>
+    <ClInclude Include="bufferobject.h">
+      <Filter>Source Files\graphics\bufferobject</Filter>
+    </ClInclude>
+    <ClInclude Include="form.h">
+      <Filter>Source Files\control\form</Filter>
+    </ClInclude>
+    <ClInclude Include="compiler.h">
+      <Filter>Source Files\compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="function.h">
+      <Filter>Source Files\compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="memorymanagement.h">
+      <Filter>Source Files\compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="hsf.h">
+      <Filter>Source Files\hsf</Filter>
+    </ClInclude>
+    <ClInclude Include="gravity.h">
+      <Filter>Source Files\math\physics</Filter>
+    </ClInclude>
+    <ClInclude Include="physics.h">
+      <Filter>Source Files\math\physics</Filter>
+    </ClInclude>
+    <ClInclude Include="operators.h">
+      <Filter>Source Files\compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="brush.h">
+      <Filter>Source Files\graphics\brush</Filter>
+    </ClInclude>
+    <ClInclude Include="fastlist.h">
+      <Filter>Source Files\list</Filter>
+    </ClInclude>
+    <ClInclude Include="vec4.h">
+      <Filter>Source Files\math\vector</Filter>
+    </ClInclude>
+    <ClInclude Include="bodypart.h">
+      <Filter>Source Files\bodypart</Filter>
+    </ClInclude>
+    <ClInclude Include="area.h">
+      <Filter>Source Files\compiler\area</Filter>
+    </ClInclude>
+    <ClInclude Include="standardarea.h">
+      <Filter>Source Files\compiler\area\standardarea</Filter>
+    </ClInclude>
+    <ClInclude Include="errors.h">
+      <Filter>Source Files\compiler\errors</Filter>
+    </ClInclude>
+    <ClInclude Include="MarchingCubes.h">
+      <Filter>Source Files\mesh\marching cubes</Filter>
+    </ClInclude>
+    <ClInclude Include="triangulationtable.h">
+      <Filter>Source Files\mesh\marching cubes</Filter>
+    </ClInclude>
+    <ClInclude Include="mesh.h">
+      <Filter>Source Files\mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="keyframe.h">
+      <Filter>Source Files\keyframe</Filter>
+    </ClInclude>
+    <ClInclude Include="dimensionallist.h">
+      <Filter>Source Files\list\multidimensional</Filter>
+    </ClInclude>
+    <ClInclude Include="dimensionalindex.h">
+      <Filter>Source Files\list\multidimensional</Filter>
+    </ClInclude>
+    <ClInclude Include="AI.h">
+      <Filter>Source Files\math\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="aidata.h">
+      <Filter>Source Files\math\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="FastLayer.h">
+      <Filter>Source Files\math\AI</Filter>
+    </ClInclude>
+    <ClInclude Include="array2d.h">
+      <Filter>Source Files\list</Filter>
+    </ClInclude>
+    <ClInclude Include="brushes.h">
+      <Filter>Source Files\graphics\brush</Filter>
+    </ClInclude>
+    <ClInclude Include="matnxn.h">
+      <Filter>Source Files\math\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix.h">
+      <Filter>Source Files\math\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="imageLoader.h">
+      <Filter>Source Files\graphics\texture\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="imageWriter.h">
+      <Filter>Source Files\graphics\texture\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="Controls.h">
+      <Filter>Source Files\control</Filter>
+    </ClInclude>
+    <ClInclude Include="Control.h">
+      <Filter>Source Files\control</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>Source Files\control\button</Filter>
+    </ClInclude>
+    <ClInclude Include="bodypart2d.h">
+      <Filter>Source Files\bodypart</Filter>
+    </ClInclude>
+    <ClInclude Include="fontfamily.h">
+      <Filter>Source Files\graphics\font</Filter>
+    </ClInclude>
+    <ClInclude Include="tileList.h">
+      <Filter>Source Files\list\tilelist</Filter>
+    </ClInclude>
+    <ClInclude Include="tile.h">
+      <Filter>Source Files\list\tilelist</Filter>
+    </ClInclude>
+    <ClInclude Include="checkbox.h">
+      <Filter>Source Files\control\checkbox</Filter>
+    </ClInclude>
+    <ClInclude Include="slider.h">
+      <Filter>Source Files\control\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="interfaces.h">
+      <Filter>Source Files\interface</Filter>
+    </ClInclude>
+    <ClInclude Include="idestructable.h">
+      <Filter>Source Files\interface</Filter>
+    </ClInclude>
+    <ClInclude Include="application.h">
+      <Filter>Source Files\main</Filter>
+    </ClInclude>
+    <ClInclude Include="label.h">
+      <Filter>Source Files\control\label</Filter>
+    </ClInclude>
+    <ClInclude Include="ray.h">
+      <Filter>Source Files\graphics\raycasting</Filter>
+    </ClInclude>
+    <ClInclude Include="rayintersection.h">
+      <Filter>Source Files\graphics\raycasting</Filter>
+    </ClInclude>
+    <ClInclude Include="raycaster.h">
+      <Filter>Source Files\graphics\raycasting</Filter>
+    </ClInclude>
+    <ClInclude Include="intersection.h">
+      <Filter>Source Files\graphics\raycasting</Filter>
+    </ClInclude>
+    <ClInclude Include="intersectable.h">
+      <Filter>Source Files\graphics\raycasting\intersectable</Filter>
+    </ClInclude>
+    <ClInclude Include="intersectableCuboid.h">
+      <Filter>Source Files\graphics\raycasting\intersectable</Filter>
+    </ClInclude>
+    <ClInclude Include="meshConstants.h">
+      <Filter>Source Files\mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="intersectables.h">
+      <Filter>Source Files\graphics\raycasting\intersectable</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GlobalFunctions.cpp">
+      <Filter>Source Files\Global functions</Filter>
+    </ClCompile>
+    <ClCompile Include="include.cpp">
+      <Filter>Source Files\include</Filter>
+    </ClCompile>
+    <ClCompile Include="LayerNoiseSimplex.cpp">
+      <Filter>Source Files\Noise</Filter>
+    </ClCompile>
+    <ClCompile Include="SimplexNoise.cpp">
+      <Filter>Source Files\Noise</Filter>
+    </ClCompile>
+    <ClCompile Include="mat3x3.cpp">
+      <Filter>Source Files\math\matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files\graphics\texture</Filter>
+    </ClCompile>
+    <ClCompile Include="font.cpp">
+      <Filter>Source Files\graphics\font</Filter>
+    </ClCompile>
+    <ClCompile Include="mat4x4.cpp">
+      <Filter>Source Files\math\matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="PictureBox.cpp">
+      <Filter>Source Files\control\picturebox</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBox.cpp">
+      <Filter>Source Files\control\textbox</Filter>
+    </ClCompile>
+    <ClCompile Include="mathfunctions.cpp">
+      <Filter>Source Files\math</Filter>
+    </ClCompile>
+    <ClCompile Include="frustum.cpp">
+      <Filter>Source Files\math\frustum</Filter>
+    </ClCompile>
+    <ClCompile Include="graphics.cpp">
+      <Filter>Source Files\graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle.cpp">
+      <Filter>Source Files\math\triangle</Filter>
+    </ClCompile>
+    <ClCompile Include="mat2x2.cpp">
+      <Filter>Source Files\math\matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="interaction.cpp">
+      <Filter>Source Files\interaction</Filter>
+    </ClCompile>
+    <ClCompile Include="collisions.cpp">
+      <Filter>Source Files\math\physics</Filter>
+    </ClCompile>
+    <ClCompile Include="image.cpp">
+      <Filter>Source Files\graphics\texture\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="squaretex.cpp">
+      <Filter>Source Files\graphics\texture\square</Filter>
+    </ClCompile>
+    <ClCompile Include="filedialog.cpp">
+      <Filter>Source Files\control\filedialog</Filter>
+    </ClCompile>
+    <ClCompile Include="form.cpp">
+      <Filter>Source Files\control\form</Filter>
+    </ClCompile>
+    <ClCompile Include="hsf.cpp">
+      <Filter>Source Files\hsf</Filter>
+    </ClCompile>
+    <ClCompile Include="compiler.cpp">
+      <Filter>Source Files\compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="memorymanagement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="brush.cpp">
+      <Filter>Source Files\graphics\brush</Filter>
+    </ClCompile>
+    <ClCompile Include="bodypart.cpp">
+      <Filter>Source Files\bodypart</Filter>
+    </ClCompile>
+    <ClCompile Include="sound.cpp">
+      <Filter>Source Files\sound</Filter>
+    </ClCompile>
+    <ClCompile Include="area.cpp">
+      <Filter>Source Files\compiler\area</Filter>
+    </ClCompile>
+    <ClCompile Include="standardarea.cpp">
+      <Filter>Source Files\compiler\area\standardarea</Filter>
+    </ClCompile>
+    <ClCompile Include="timemath.cpp">
+      <Filter>Source Files\math\time</Filter>
+    </ClCompile>
+    <ClCompile Include="errors.cpp">
+      <Filter>Source Files\compiler\errors</Filter>
+    </ClCompile>
+    <ClCompile Include="mesh.cpp">
+      <Filter>Source Files\mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="AI.cpp">
+      <Filter>Source Files\math\AI</Filter>
+    </ClCompile>
+    <ClCompile Include="FastLayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="brushes.cpp">
+      <Filter>Source Files\graphics\brush</Filter>
+    </ClCompile>
+    <ClCompile Include="Control.cpp">
+      <Filter>Source Files\control</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>Source Files\control\button</Filter>
+    </ClCompile>
+    <ClCompile Include="bodypart2d.cpp">
+      <Filter>Source Files\bodypart</Filter>
+    </ClCompile>
+    <ClCompile Include="fontfamily.cpp">
+      <Filter>Source Files\graphics\font</Filter>
+    </ClCompile>
+    <ClCompile Include="checkbox.cpp">
+      <Filter>Source Files\control\checkbox</Filter>
+    </ClCompile>
+    <ClCompile Include="slider.cpp">
+      <Filter>Source Files\control\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="application.cpp">
+      <Filter>Source Files\main</Filter>
+    </ClCompile>
+    <ClCompile Include="label.cpp">
+      <Filter>Source Files\control\label</Filter>
+    </ClCompile>
+    <ClCompile Include="ampAcceleration.cpp">
+      <Filter>Source Files\graphics\raycasting</Filter>
+    </ClCompile>
+    <ClCompile Include="intersectable.cpp">
+      <Filter>Source Files\graphics\raycasting\intersectable</Filter>
+    </ClCompile>
+    <ClCompile Include="intersectableCuboid.cpp">
+      <Filter>Source Files\graphics\raycasting\intersectable</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+﻿  application.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\application.cpp(8,23): warning C4244: 'argument': conversion from 'microseconds' to 'unsigned int', possible loss of data
+  include.vcxproj -> C:\Users\Gebruiker\Documents\GitHub\medieval survival with controls\Release\include.lib

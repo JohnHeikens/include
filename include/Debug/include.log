@@ -1,0 +1,430 @@
+﻿  application.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\application.cpp(9,23): warning C4244: 'argument': conversion from 'microseconds' to 'unsigned int', possible loss of data
+  area.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\function.h(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\function.h(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\area.cpp(168,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\area.cpp(198,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\area.cpp(219,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\area.cpp(324,7): warning C4101: 'n': unreferenced local variable
+  bodypart.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  bodypart2d.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  brush.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  brushes.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  button.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+  checkbox.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+  collisions.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.h(28,16): warning C4244: '=': conversion from 't' to 'float', possible loss of data
+          with
+          [
+              t=fp
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.h(31,7): warning C4244: '=': conversion from 'cfp' to 'float', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.h(35,16): warning C4244: '=': conversion from 't' to 'float', possible loss of data
+          with
+          [
+              t=fp
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.h(38,7): warning C4244: '=': conversion from 'cfp' to 'float', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.cpp(179,10): warning C4244: 'initializing': conversion from 't' to 'float', possible loss of data
+          with
+          [
+              t=fp
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.cpp(181,10): warning C4244: 'initializing': conversion from 't' to 'float', possible loss of data
+          with
+          [
+              t=fp
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.cpp(185,10): warning C4244: 'initializing': conversion from 'fp' to 'float', possible loss of data
+  compiler.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\function.h(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\function.h(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\compiler.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\compiler.cpp(38,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\compiler.cpp(58,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\compiler.cpp(136,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\compiler.cpp(289,20): warning C4018: '<': signed/unsigned mismatch
+  errors.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  FastLayer.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  font.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+  fontfamily.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\fontfamily.cpp(57,80): warning C4244: 'argument': conversion from 'cfp' to 'const t', possible loss of data
+          with
+          [
+              t=int
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\fontfamily.cpp(57,68): warning C4244: 'argument': conversion from 'cfp' to 'const t', possible loss of data
+          with
+          [
+              t=int
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\fontfamily.cpp(57,64): warning C4244: 'argument': conversion from 'const t' to 'const t', possible loss of data
+          with
+          [
+              t=fp
+          ]
+          and
+          [
+              t=int
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\fontfamily.cpp(57,52): warning C4244: 'argument': conversion from 'const t' to 'const t', possible loss of data
+          with
+          [
+              t=fp
+          ]
+          and
+          [
+              t=int
+          ]
+  form.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+  frustum.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  function.cpp
+  GlobalFunctions.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.cpp(87,55): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\algorithm(1310,25): warning C4244: 'argument': conversion from 'wchar_t' to 'unsigned char', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.cpp(6): message : see reference to function template instantiation '_OutIt std::transform<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,makelowercase::<lambda_cf7b20b884dcf5d4015f72abcaaa71c9>>(const _InIt,const _InIt,_OutIt,_Fn)' being compiled
+          with
+          [
+              _OutIt=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Elem=wchar_t,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Fn=makelowercase::<lambda_cf7b20b884dcf5d4015f72abcaaa71c9>
+          ]
+  graphics.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(226,16): warning C4244: 'initializing': conversion from 't' to 'int', possible loss of data
+          with
+          [
+              t=fp
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(227,12): warning C4552: '*': result of expression not used
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(228,10): warning C4244: 'initializing': conversion from 'fp' to 'float', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(247,27): warning C4244: 'argument': conversion from 't' to 'cint', possible loss of data
+          with
+          [
+              t=fp
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(247,18): warning C4244: 'argument': conversion from 't' to 'cint', possible loss of data
+          with
+          [
+              t=fp
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(482,6): warning C4102: 'next': unreferenced label
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(575,6): warning C4102: 'next': unreferenced label
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(653,6): warning C4102: 'next': unreferenced label
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(741,6): warning C4102: 'next': unreferenced label
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1000,23): warning C4244: 'initializing': conversion from 'double' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1000,19): warning C4244: 'initializing': conversion from 'double' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1001,23): warning C4244: 'initializing': conversion from 'double' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1001,19): warning C4244: 'initializing': conversion from 'double' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1055,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1056,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1136,23): warning C4244: 'initializing': conversion from 'double' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1136,19): warning C4244: 'initializing': conversion from 'double' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1137,23): warning C4244: 'initializing': conversion from 'double' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1137,19): warning C4244: 'initializing': conversion from 'double' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1199,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1200,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1285,23): warning C4244: 'initializing': conversion from 'double' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1285,19): warning C4244: 'initializing': conversion from 'double' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1286,23): warning C4244: 'initializing': conversion from 'double' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1286,19): warning C4244: 'initializing': conversion from 'double' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1330,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1331,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1408,23): warning C4244: 'initializing': conversion from 'double' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1408,19): warning C4244: 'initializing': conversion from 'double' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1409,23): warning C4244: 'initializing': conversion from 'double' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1409,19): warning C4244: 'initializing': conversion from 'double' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1456,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1457,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1528,23): warning C4244: 'initializing': conversion from 'double' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1528,19): warning C4244: 'initializing': conversion from 'double' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1529,23): warning C4244: 'initializing': conversion from 'double' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1529,19): warning C4244: 'initializing': conversion from 'double' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1573,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(1574,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  graphicsAMP.cpp
+  Generating Code...
+C:\Users\Gebruiker\Documents\GitHub\include\include\graphics.cpp(752): warning C4717: 'graphicsObject::FillRectangle': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\Gebruiker\Documents\GitHub\include\include\area.cpp(278): warning C4715: 'area::GetCalculation': not all control paths return a value
+  Compiling...
+  hsf.cpp
+  image.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  include.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\hsf.h(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\function.h(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\function.h(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.h(28,16): warning C4244: '=': conversion from 't' to 'float', possible loss of data
+          with
+          [
+              t=fp
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.h(31,7): warning C4244: '=': conversion from 'cfp' to 'float', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.h(35,16): warning C4244: '=': conversion from 't' to 'float', possible loss of data
+          with
+          [
+              t=fp
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\collisions.h(38,7): warning C4244: '=': conversion from 'cfp' to 'float', possible loss of data
+  interaction.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  LayerNoiseSimplex.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  mat2x2.cpp
+  mat3x3.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  mat4x4.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  mathfunctions.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  filedialog.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  memorymanagement.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  mesh.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\mesh.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+  PictureBox.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+  SimplexNoise.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  slider.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\slider.cpp(5,28): warning C4244: 'initializing': conversion from 'fp' to 'const cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\slider.cpp(5,19): warning C4244: 'initializing': conversion from 'fp' to 'cint', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\slider.cpp(24,46): warning C4244: '=': conversion from 'const cfp' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\slider.cpp(35,25): warning C4244: '=': conversion from 'fp' to 'int', possible loss of data
+  sound.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  AI.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\AI.cpp(198,30): warning C4018: '>=': signed/unsigned mismatch
+  squaretex.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  standardarea.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\function.h(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\function.h(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\standardarea.cpp(20,23): warning C4244: '=': conversion from 'fp' to 'int', possible loss of data
+  TextBox.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Texture.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  timemath.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  triangle.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+  Control.cpp
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(324,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(346,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(371,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(429,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\GlobalFunctions.h(439,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gebruiker\Documents\GitHub\include\include\font.h(18,19): warning C4244: 'return': conversion from 'fp' to 'int', possible loss of data
+C:\Users\Gebruiker\Documents\GitHub\include\include\rectangle2.h(43,12): warning C4244: 'argument': conversion from 'cfp' to 'const t', possible loss of data
+          with
+          [
+              t=int
+          ]
+C:\Users\Gebruiker\Documents\GitHub\include\include\rectangle2.h(42): message : while compiling class template member function 'void rectangle2t<int>::expand(cfp &)'
+C:\Users\Gebruiker\Documents\GitHub\include\include\rectangle2.h(49): message : see reference to function template instantiation 'void rectangle2t<int>::expand(cfp &)' being compiled
+C:\Users\Gebruiker\Documents\GitHub\include\include\array2d.h(62): message : see reference to class template instantiation 'rectangle2t<int>' being compiled
+C:\Users\Gebruiker\Documents\GitHub\include\include\array2d.h(62): message : see reference to class template instantiation 'array2d<t>' being compiled
+C:\Users\Gebruiker\Documents\GitHub\include\include\rectangle2.h(44,18): warning C4244: 'argument': conversion from 'const cfp' to 'const t', possible loss of data
+          with
+          [
+              t=int
+          ]
+  Generating Code...
+  include.vcxproj -> C:\Users\Gebruiker\Documents\GitHub\medieval survival with controls\Debug\include.lib

@@ -1,0 +1,4 @@
+C:\Users\Gebruiker\Documents\GitHub\WorldCraft\v5.1.2\Debug\include.pdb
+C:\Users\Gebruiker\Documents\GitHub\sfml and include\Debug\include.pdb
+C:\Users\Gebruiker\Documents\GitHub\medieval survival with controls\Debug\include.pdb
+C:\Users\Gebruiker\Documents\GitHub\include\include\Debug\include.pdb
